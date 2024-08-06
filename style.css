@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.container .card img{
+    height: 150px;
+    width: 18rem;
+}
+.portada{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
+}
