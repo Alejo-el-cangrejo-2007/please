@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.container .card img{
+    height: 150px;
+    width: 18rem;
+}
+.portada{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
+}
+.derechos{
+    margin: 3px;
+    text-align: center;
+    font-size: 10px;
+}
+.container .card{
+    margin: 5px;
+}
+.titulo_ushuaia{
+    text-align: center;
+    margin: 6px;
+    
+}
+.container_ushuaia{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
